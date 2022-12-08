@@ -9,4 +9,4 @@ To get an API key for this project, I linked my Spotify account to the Spotify D
 
 After completing this scrape, I cleaned the data in order to create an exploratory data analysis that examined the audio features of John Mayer's tracks and albums. 
 
-This repository contains the code I used to scrape, clean, and explore the John Mayer data, a .json file with my playlist's URI, a .csv file with the uncleaned data, and a .gitignore file.
+This repository contains the code I used to scrape, clean, and explore the John Mayer data, a .json file with my playlist's URI, .csv files with the cleaned & uncleaned data, and a .gitignore file.
