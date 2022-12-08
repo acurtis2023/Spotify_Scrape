@@ -7,6 +7,6 @@ In the spirit of finding a project that was interesting to me and wasn't a trivi
 
 To get an API key for this project, I linked my Spotify account to the Spotify Developers website and created an app on my dashboard. This provided me with a client id and a client secret, which I have excluded from this repository since they are private keys. 
 
-One interesting aspect of the Spotify API is that they limit scraping endpoints to 100 tracks. John Mayer has several studio and live albums, which makes his total track list exceed 100 songs. To account for this, I created a playlist of just his studio albums, and used the last couple of indeces to add a few of my favorite live recordings. 
+After completing this scrape, I cleaned the data in order to create an exploratory data analysis that examined the audio features of John Mayer's tracks and albums. 
 
-This repository contains the code I used to scrape the John Mayer data, a .json file with my playlist's URI, and a .gitignore file.
+This repository contains the code I used to scrape, clean, and explore the John Mayer data, a .json file with my playlist's URI, a .csv file with the uncleaned data, and a .gitignore file.
